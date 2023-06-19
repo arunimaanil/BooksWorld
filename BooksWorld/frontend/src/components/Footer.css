@@ -1,0 +1,16 @@
+.about,.branches,.learn{
+    color: wheat;
+    float: left;
+    padding-left: 200px;
+    margin-top: auto;
+    
+   
+}
+.footer{
+    background-color: grey;
+    height: 254px;
+    padding-top: 50px;
+}
+ul{
+    list-style-type: none;
+}
